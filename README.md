@@ -89,7 +89,7 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 
 ![System Architecture](https://lab.hanium.or.kr/21_HF144/21_hf144/uploads/a57b853151fb2ac57b6384dc09f615c7/system_architecture.png)
 
-[API docs](https://lab.hanium.or.kr/21_HF144/21_hf144/wikis/home)
+[API docs](https://github.com/defwdahyun0/FindMap/wiki)
 
 ## License
 
