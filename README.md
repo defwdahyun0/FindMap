@@ -106,5 +106,9 @@ Findmap AI로 **검색 결과를 사용자 취향에 맞게 정렬**하여 검�
 
 [KoBERT](https://github.com/SKTBrain/KoBERT)
 
+## Report
+* [개발보고서](https://github.com/defwdahyun0/FindMap/blob/main/2021%20%ED%95%9C%EC%9D%B4%EC%9D%8C%20%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EA%B0%9C%EB%B0%9C%EB%B3%B4%EA%B3%A0%EC%84%9C_FindMap_3%EC%B0%A8.pdf)
+* [제작설계서]
+
 
 
