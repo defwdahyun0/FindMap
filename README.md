@@ -34,6 +34,8 @@
   <a href="#architecture">Architecture</a> * 
   <a href="#license">License</a> * 
   <a href="#reference">Reference</a>
+  <a href="#report">Report</a>
+  <a href="#video">Video</a>
 </p>
 <p align="center">
     Findmap은 2021 한이음 "21_HF144 빅데이터, AI기반 컨버전스 콘텐츠 마인드맵 앱개발" 프로젝트로 진행된 결과물입니다.
