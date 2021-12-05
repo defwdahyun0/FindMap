@@ -33,8 +33,8 @@
   <a href="#contributors">Contributors</a> * 
   <a href="#architecture">Architecture</a> * 
   <a href="#license">License</a> * 
-  <a href="#reference">Reference</a>
-  <a href="#report">Report</a>
+  <a href="#reference">Reference</a> * 
+  <a href="#report">Report</a> * 
   <a href="#video">Video</a>
 </p>
 <p align="center">
